@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LED Notifications</string>
+    <string name="main.button.text.iniciar">Iniciar</string>
+    <string name="main.button.text.detener">Detener</string>
+</resources>
