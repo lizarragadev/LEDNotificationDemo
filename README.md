@@ -2,6 +2,7 @@ LED Notifications
 ====
 
 Ejemplo basico de manejo del la luz LED de un dispositivo Android.
+
 Material impartido dentro el contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
 
 Requerimientos
@@ -28,7 +29,7 @@ Captura
 
 <div align="center">
     <center>
-                <td><img src="/img/corrida_01.gif" width="250">
+        <td><img src="/img/corrida_01.gif" width="250">
     </center>
 </div>
 <br><br>
