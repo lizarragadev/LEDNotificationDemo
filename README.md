@@ -29,7 +29,7 @@ Captura
 
 <div align="center">
     <center>
-        <td><img src="/img/corrida_01.gif" width="250">
+        <td><img src="/img/corrida.gif" width="250">
     </center>
 </div>
 <br><br>
