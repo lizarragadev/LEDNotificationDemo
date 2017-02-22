@@ -1,5 +1,4 @@
 LED Notifications
-====
 
 Ejemplo basico de manejo del la luz LED de un dispositivo Android.
 
@@ -14,8 +13,8 @@ Requerimientos
 Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
->
->     $ git clone https://github.com/Gusn8/StudyJam_II_LedNotification.git
+> 
+>     $ git clone https://github.com/Gusn8/StudyJam_II_LedNotification.git
 
 Dentro de Android Studio:
 
@@ -31,7 +30,7 @@ Captura
     <center>
         <td><img src="/img/corrida.gif" width="250">
     </center>
-</div>
+
 <br><br>
 
 Autor
